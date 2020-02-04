@@ -1,0 +1,330 @@
+﻿Nombre,Posicion,Duracion,Accion,Decision,Defensa,Oposicion,Protagonista,Resultado
+Serbia,2508040,2720,Serbia,Correcta,BID,Deficiente,ANA,Conserva la posesión
+Apoyo pivote falso,2581520,5480,Apoyo pivote falso,Correcta,GUA,Deficiente,ADE,Conserva la posesión
+Apoyo pivote falso (2),2685040,6080,Apoyo pivote falso,Incorrecta,GUA,Óptima,ADE,Pierde la posesión
+Apoyo pivote falso (3),921560,7960,Apoyo pivote falso,Incorrecta,HCA,Óptima,ATV,Pierde la posesión
+Serbia (1),992720,7280,Serbia,Correcta,HCA,Deficiente,ATV,Gol
+Serbia (2),1111480,6880,Serbia,Correcta,HCA,Deficiente,ATV,Conserva la posesión
+Serbia (3),3507040,6200,Serbia,Correcta,HCA,Óptima,ATV,Conserva la posesión
+Serbia (4),3766880,9320,Serbia,Correcta,HCA,Óptima,ATV,Pierde la posesión
+Apoyo pivote falso (4),858960,7400,Apoyo pivote falso,Incorrecta,SIN,Deficiente,ADE,Pierde la posesión
+Apoyo pivote falso (5),1302240,10200,Apoyo pivote falso,Correcta,SIN,Deficiente,ADE,Gol
+Apoyo pivote falso (6),27080,6120,Apoyo pivote falso,Incorrecta,SIN,Óptima,ADE,Conserva la posesión
+Apoyo pivote falso (7),114960,8680,Apoyo pivote falso,Incorrecta,SIN,Óptima,ADE,Conserva la posesión
+Serbia (5),1667400,6440,Serbia,Correcta,CQN,Deficiente,ALC,Conserva la posesión
+Serbia (6),1673000,5240,Serbia,Incorrecta,CQN,Deficiente,ALC,Gol
+Serbia (7),2302840,24600,Serbia,Correcta,ALC,Deficiente,CQN,Conserva la posesión
+Serbia (8),36920,7520,Serbia,Correcta,ALC,Deficiente,CQN,Pierde la posesión
+Serbia (9),1557320,9280,Serbia,Incorrecta,GUA,Deficiente,ANA,Pierde la posesión
+Apoyo pivote falso (8),570160,7920,Apoyo pivote falso,Incorrecta,GUA,Óptima,ANA,Conserva la posesión
+Serbia (10),10880,5480,Serbia,Incorrecta,ALC,Deficiente,ATV,Pierde la posesión
+Serbia (11),303960,6360,Serbia,Correcta,ALC,Deficiente,ATV,Gol
+Apoyo pivote falso (9),346760,7320,Apoyo pivote falso,Correcta,HCA,Deficiente,BAR,Conserva la posesión
+Serbia (12),1167680,7520,Serbia,Correcta,BAR,Óptima,HCA,Gol
+Serbia (13),1279400,7000,Serbia,Correcta,BAR,Deficiente,HCA,Pierde la posesión
+Serbia (14),1724240,5200,Serbia,Incorrecta,HCA,Deficiente,BAR,Gol
+Apoyo pivote falso (10),1747520,6560,Apoyo pivote falso,Correcta,TEU,Óptima,BEN,Gol
+Apoyo pivote falso (11),760920,6600,Apoyo pivote falso,Correcta,TEU,Óptima,BEN,Pierde la posesión
+Apoyo pivote falso (12),842480,6320,Apoyo pivote falso,Correcta,TEU,Óptima,BEN,Pierde la posesión
+Apoyo pivote falso (13),1114480,9240,Apoyo pivote falso,Incorrecta,TEU,Óptima,BEN,Pierde la posesión
+Serbia (15),1063200,8000,Serbia,Incorrecta,LOG,Óptima,BID,Conserva la posesión
+Serbia (16),1441640,7920,Serbia,Correcta,BID,Deficiente,LOG,Gol
+Serbia (17),1692480,4680,Serbia,Incorrecta,LOG,Óptima,BID,Gol
+Serbia (18),1464920,39960,Serbia,Incorrecta,CGN,Deficiente,PGE,Gol
+Serbia (19),1811960,8360,Serbia,Correcta,CGN,Óptima,PGE,Conserva la posesión
+Apoyo pivote falso (1),1608680,5840,Apoyo pivote falso,Incorrecta,GRA,Óptima,BEN,Pierde la posesión
+Apoyo pivote falso (14),1995760,8800,Apoyo pivote falso,Correcta,LOG,Óptima,ANA,Pierde la posesión
+Serbia (20),1372200,29760,Serbia,Correcta,ANA,Deficiente,LOG,Pierde la posesión
+Serbia (21),502320,5360,Serbia,Incorrecta,GRA,Deficiente,SIN,Pierde la posesión
+Apoyo pivote falso (15),892660,8760,Apoyo pivote falso,Correcta,GRA,Óptima,SIN,Gol
+Serbia (22),1741040,7800,Serbia,Incorrecta,CGN,Deficiente,GRA,Conserva la posesión
+Apoyo pivote falso (16),599720,7520,Apoyo pivote falso,Incorrecta,CGN,Deficiente,GRA,Pierde la posesión
+Serbia (23),863480,6920,Serbia,Incorrecta,LOG,Óptima,GUA,Conserva la posesión
+Serbia (24),1858000,7040,Serbia,Incorrecta,LOG,Óptima,GUA,Conserva la posesión
+Serbia (25),1865880,8560,Serbia,Correcta,LOG,Deficiente,GUA,Conserva la posesión
+Apoyo pivote falso (17),819400,7120,Apoyo pivote falso,Correcta,LOG,Óptima,GUA,Pierde la posesión
+Apoyo pivote falso (18),1065360,8160,Apoyo pivote falso,Incorrecta,HCA,Deficiente,CQN,Pierde la posesión
+Serbia (26),1150760,11200,Serbia,Correcta,HCA,Deficiente,CQN,Conserva la posesión
+Serbia (27),1711840,6480,Serbia,Correcta,HCA,Deficiente,CQN,Pierde la posesión
+Serbia (28),952260,9580,Serbia,Correcta,SIN,Óptima,ANA,Pierde la posesión
+Apoyo pivote falso (19),1672340,8320,Apoyo pivote falso,Incorrecta,SIN,Deficiente,ANA,Gol
+Apoyo pivote falso (20),1732600,40140,Apoyo pivote falso,Correcta,SIN,Deficiente,ANA,Gol
+Apoyo pivote falso (21),1943380,8380,Apoyo pivote falso,Incorrecta,SIN,Óptima,ANA,Gol
+Apoyo pivote falso (22),576160,8440,Apoyo pivote falso,Correcta,PGE,Deficiente,ATV,Gol
+Serbia (29),1191440,14240,Serbia,Correcta,PGE,Óptima,ATV,Conserva la posesión
+Serbia (30),165680,11040,Serbia,Incorrecta,ALC,Deficiente,BID,Conserva la posesión
+Serbia (31),180520,6080,Serbia,Correcta,ALC,Óptima,BID,Gol
+Serbia (32),1753000,10760,Serbia,Incorrecta,ALC,Óptima,BID,Conserva la posesión
+Serbia (33),1760760,8400,Serbia,Correcta,ALC,Deficiente,BID,Gol
+Apoyo pivote falso (23),256680,10720,Apoyo pivote falso,Incorrecta,TEU,Óptima,BAR,Conserva la posesión
+Apoyo pivote falso (24),756160,9960,Apoyo pivote falso,Correcta,BEN,Óptima,ADE,Gol
+Apoyo pivote falso (25),1542360,10840,Apoyo pivote falso,Incorrecta,BEN,Óptima,ADE,Pierde la posesión
+Apoyo pivote falso (26),1571000,10280,Apoyo pivote falso,Correcta,ADE,Óptima,BEN,Conserva la posesión
+Apoyo pivote falso (27),1622400,10240,Apoyo pivote falso,Incorrecta,BEN,Óptima,ADE,Conserva la posesión
+Apoyo pivote falso (28),2058080,9640,Apoyo pivote falso,Incorrecta,ADE,Deficiente,BEN,Gol
+Apoyo pivote falso (29),11600,7920,Apoyo pivote falso,Incorrecta,BEN,Óptima,ADE,Conserva la posesión
+Apoyo pivote falso (30),35120,7720,Apoyo pivote falso,Correcta,BEN,Óptima,ADE,Gol
+Apoyo pivote falso (31),86480,9600,Apoyo pivote falso,Correcta,BEN,Óptima,ADE,Gol
+Apoyo pivote falso (32),2119600,8680,Apoyo pivote falso,Correcta,BEN,Deficiente,ADE,Conserva la posesión
+Apoyo pivote falso (33),2138720,7920,Apoyo pivote falso,Incorrecta,BEN,Deficiente,ADE,Gol
+Serbia (34),1101837,5569,Serbia,Correcta,TEU,Deficiente,ATV,Pierde la posesión
+Apoyo pivote falso (34),1144610,9642,Apoyo pivote falso,Incorrecta,TEU,Deficiente,ATV,Pierde la posesión
+Serbia (35),462840,6040,Serbia,Incorrecta,PGE,Óptima,CQN,Conserva la posesión
+Apoyo pivote falso (35),196920,11000,Apoyo pivote falso,Correcta,BEN,Óptima,ANA,Pierde la posesión
+Apoyo pivote falso (36),781320,7040,Apoyo pivote falso,Incorrecta,ANA,Óptima,BEN,Gol
+Apoyo pivote falso (37),261520,9040,Apoyo pivote falso,Incorrecta,ANA,Deficiente,BEN,Pierde la posesión
+Serbia (36),579640,10320,Serbia,Incorrecta,BEN,Deficiente,ANA,Gol
+Serbia (37),736320,8120,Serbia,Incorrecta,BEN,Deficiente,ANA,Conserva la posesión
+Apoyo pivote falso (38),772840,9160,Apoyo pivote falso,Incorrecta,ANA,Óptima,BEN,Pierde la posesión
+Apoyo pivote falso (39),1023600,8840,Apoyo pivote falso,Correcta,ANA,Óptima,BEN,Gol
+Apoyo pivote falso (40),1100800,10400,Apoyo pivote falso,Correcta,ANA,Óptima,BEN,Pierde la posesión
+Apoyo pivote falso (41),1954640,9400,Apoyo pivote falso,Correcta,BEN,Deficiente,ANA,Conserva la posesión
+Serbia (38),1973840,7760,Serbia,Correcta,BEN,Deficiente,ANA,Gol
+Serbia (39),2183760,6480,Serbia,Incorrecta,GUA,Deficiente,BID,Pierde la posesión
+Serbia (40),1843760,11400,Serbia,Incorrecta,BID,Deficiente,GUA,Gol
+Serbia (41),524280,7600,Serbia,Incorrecta,ALC,Deficiente,HCA,Gol
+Serbia (42),1468200,7440,Serbia,Incorrecta,ALC,Deficiente,HCA,Conserva la posesión
+Serbia (43),1995040,27040,Serbia,Incorrecta,HCA,Óptima,ALC,Gol
+Apoyo pivote falso (42),1218440,12840,Apoyo pivote falso,Incorrecta,CGN,Deficiente,ADE,Pierde la posesión
+Apoyo pivote falso (43),346200,7040,Apoyo pivote falso,Correcta,CGN,Deficiente,ADE,Gol
+Serbia (44),947680,7320,Serbia,Incorrecta,LOG,Deficiente,BEN,Gol
+Serbia (45),1014360,7360,Serbia,Incorrecta,LOG,Deficiente,BEN,Gol
+Apoyo pivote falso (44),1510520,6800,Apoyo pivote falso,Incorrecta,LOG,Óptima,BEN,Conserva la posesión
+Apoyo pivote falso (45),1523600,8080,Apoyo pivote falso,Incorrecta,LOG,Deficiente,BEN,Conserva la posesión
+Apoyo pivote falso (46),1672660,8220,Apoyo pivote falso,Incorrecta,GUA,Deficiente,SIN,Conserva la posesión
+Serbia (46),892280,7000,Serbia,Incorrecta,GRA,Óptima,ATV,Pierde la posesión
+Apoyo pivote falso (47),1572000,9320,Apoyo pivote falso,Correcta,ATV,Deficiente,GRA,Pierde la posesión
+Serbia (47),766160,7480,Serbia,Incorrecta,TEU,Deficiente,CQN,Pierde la posesión
+Serbia (48),835160,7840,Serbia,Incorrecta,TEU,Deficiente,CQN,Gol
+Serbia (52),1200520,8760,Serbia,Incorrecta,GRA,Deficiente,ATV,Gol
+Serbia (49),530860,7680,Serbia,Incorrecta,SIN,Óptima,BID,Pierde la posesión
+Serbia (50),902140,8000,Serbia,Incorrecta,SIN,Óptima,BID,Pierde la posesión
+Serbia (51),2273380,8540,Serbia,Incorrecta,SIN,Deficiente,BID,Pierde la posesión
+Serbia (49),297880,7120,Serbia,Correcta,GRA,Óptima,CQN,Pierde la posesión
+Serbia (50),1827960,7920,Serbia,Correcta,ALC,Deficiente,TEU,Gol
+Apoyo pivote falso (48),1103040,10480,Apoyo pivote falso,Incorrecta,BAR,Óptima,ADE,Gol
+Apoyo pivote falso (49),1563120,7800,Apoyo pivote falso,Correcta,BAR,Óptima,ADE,Gol
+Apoyo pivote falso (50),2907000,9320,Apoyo pivote falso,Correcta,ADE,Óptima,ATV,Gol
+Serbia (51),1633840,6560,Serbia,Correcta,PGE,Deficiente,ALC,Gol
+Serbia (53),989320,7320,Serbia,Incorrecta,PGE,Deficiente,ALC,Pierde la posesión
+Serbia (54),305000,7000,Serbia,Correcta,HCA,Óptima,BID,Gol
+Serbia (55),22240,8680,Serbia,Incorrecta,HCA,Deficiente,BID,Pierde la posesión
+Serbia (56),508280,5440,Serbia,Incorrecta,HCA,Deficiente,BID,Gol
+Serbia (57),594320,9240,Serbia,Incorrecta,HCA,Óptima,BID,Pierde la posesión
+Apoyo pivote falso (51),1177600,8040,Apoyo pivote falso,Correcta,GUA,Óptima,BEN,Pierde la posesión
+Apoyo pivote falso (52),2156320,10800,Apoyo pivote falso,Correcta,GUA,Óptima,BEN,Pierde la posesión
+Serbia (58),2646440,8840,Serbia,Correcta,BEN,Deficiente,GUA,Gol
+Apoyo pivote falso (53),3535920,14880,Apoyo pivote falso,Incorrecta,GUA,Óptima,BEN,Conserva la posesión
+Apoyo pivote falso (54),4568040,10560,Apoyo pivote falso,Incorrecta,GUA,Deficiente,BEN,Conserva la posesión
+Apoyo pivote falso (55),4659000,8520,Apoyo pivote falso,Incorrecta,GUA,Deficiente,BEN,Conserva la posesión
+Apoyo pivote falso (56),660640,6600,Apoyo pivote falso,Correcta,ANA,Óptima,BAR,Gol
+Serbia (59),727120,6200,Serbia,Incorrecta,ANA,Deficiente,BAR,Gol
+Serbia (60),1455200,7040,Serbia,Incorrecta,BAR,Deficiente,ANA,Pierde la posesión
+Serbia (61),1876560,10880,Serbia,Incorrecta,BAR,Deficiente,ANA,Conserva la posesión
+Serbia (62),1891760,6480,Serbia,Incorrecta,BAR,Deficiente,ANA,Pierde la posesión
+Apoyo pivote falso (57),2118120,11120,Apoyo pivote falso,Incorrecta,ANA,Deficiente,BAR,Conserva la posesión
+Serbia (63),2134880,41360,Serbia,Incorrecta,ANA,Óptima,BAR,Pierde la posesión
+Serbia (64),662800,11640,Serbia,Incorrecta,CGN,Óptima,ANA,Gol
+Serbia (65),637120,9760,Serbia,Correcta,TEU,Deficiente,LOG,Gol
+Serbia (66),709160,8000,Serbia,Correcta,TEU,Deficiente,LOG,Pierde la posesión
+Serbia (67),1942760,7040,Serbia,Incorrecta,TEU,Deficiente,LOG,Pierde la posesión
+Apoyo pivote falso (58),1579709,9361,Apoyo pivote falso,Correcta,LOG,Deficiente,BEN,Conserva la posesión
+Apoyo pivote falso (59),1191040,8640,Apoyo pivote falso,Correcta,SIN,Óptima,BEN,Gol
+Serbia (68),590480,11560,Serbia,Incorrecta,ATV,Deficiente,ANA,Conserva la posesión
+Serbia (69),810040,10960,Serbia,Correcta,ANA,Óptima,ATV,Conserva la posesión
+Apoyo pivote falso (60),914760,7960,Apoyo pivote falso,Correcta,ANA,Deficiente,ATV,Gol
+Apoyo pivote falso (61),974120,9160,Apoyo pivote falso,Incorrecta,ANA,Deficiente,ATV,Conserva la posesión
+Apoyo pivote falso (62),1976440,9920,Apoyo pivote falso,Correcta,ATV,Óptima,ANA,Gol
+Serbia (70),2045400,9320,Serbia,Correcta,ATV,Óptima,ANA,Gol
+Apoyo pivote falso (63),246440,8440,Apoyo pivote falso,Correcta,ANA,Óptima,ATV,Gol
+Serbia (71),311480,5520,Serbia,Incorrecta,ANA,Óptima,ATV,Gol
+Serbia (72),359720,7120,Serbia,Incorrecta,ANA,Óptima,ATV,Gol
+Serbia (73),685440,8560,Serbia,Correcta,ANA,Óptima,ATV,Gol
+Serbia (74),769320,9200,Serbia,Incorrecta,ATV,Óptima,ANA,Conserva la posesión
+Apoyo pivote falso (64),853960,9280,Apoyo pivote falso,Correcta,ATV,Óptima,ANA,Conserva la posesión
+Apoyo pivote falso (65),1336080,8080,Apoyo pivote falso,Correcta,ANA,Óptima,ATV,Pierde la posesión
+Serbia (75),1966760,11320,Serbia,Correcta,ANA,Deficiente,ATV,Conserva la posesión
+Apoyo pivote falso (66),682360,9000,Apoyo pivote falso,Incorrecta,ADE,Óptima,CQN,Pierde la posesión
+Serbia (76),771240,8880,Serbia,Correcta,ALC,Deficiente,GRA,Gol
+Serbia (77),872040,37040,Serbia,Incorrecta,ALC,Deficiente,GRA,Pierde la posesión
+Serbia (78),906560,8400,Serbia,Incorrecta,GRA,Deficiente,ALC,Conserva la posesión
+Serbia (79),2219960,8160,Serbia,Incorrecta,GRA,Óptima,ALC,Pierde la posesión
+Serbia (80),1592000,6920,Serbia,Incorrecta,PGE,Deficiente,BID,Gol
+Serbia (81),305240,8800,Serbia,Incorrecta,BEN,Deficiente,BID,Conserva la posesión
+Apoyo pivote falso (67),1100640,11600,Apoyo pivote falso,Incorrecta,GUA,Óptima,BAR,Pierde la posesión
+Apoyo pivote falso (68),1158040,7840,Apoyo pivote falso,Incorrecta,GUA,Deficiente,BAR,Pierde la posesión
+Apoyo pivote falso (69),1789560,8720,Apoyo pivote falso,Correcta,GUA,Óptima,BAR,Conserva la posesión
+Serbia (82),1799880,6520,Serbia,Incorrecta,GUA,Deficiente,BAR,Conserva la posesión
+Serbia (83),1968480,10400,Serbia,Correcta,GUA,Óptima,BAR,Conserva la posesión
+Serbia (84),1980280,6600,Serbia,Incorrecta,GUA,Deficiente,BAR,Gol
+Serbia (85),1953720,7240,Serbia,Incorrecta,HCA,Óptima,GRA,Conserva la posesión
+Apoyo pivote falso (70),1428880,8120,Apoyo pivote falso,Incorrecta,CGN,Deficiente,SIN,Gol
+Serbia (86),1026520,7080,Serbia,Incorrecta,HCA,Óptima,GRA,Conserva la posesión
+Apoyo pivote falso (71),111600,8240,Apoyo pivote falso,Correcta,GUA,Deficiente,BAR,Gol
+Serbia (87),940560,5360,Serbia,Incorrecta,LOG,Deficiente,ATV,Conserva la posesión
+Serbia (88),1604480,6360,Serbia,Incorrecta,ATV,Deficiente,LOG,Conserva la posesión
+Serbia (89),1611120,35800,Serbia,Incorrecta,ATV,Deficiente,LOG,Pierde la posesión
+Serbia (90),390200,9080,Serbia,Correcta,ANA,Deficiente,CQN,Conserva la posesión
+Serbia (91),404320,7080,Serbia,Incorrecta,ANA,Deficiente,CQN,Conserva la posesión
+Serbia (92),421080,5560,Serbia,Incorrecta,ANA,Deficiente,CQN,Pierde la posesión
+Serbia (93),1381600,10240,Serbia,Incorrecta,CQN,Óptima,ANA,Pierde la posesión
+Serbia (94),1466120,8840,Serbia,Correcta,CQN,Óptima,ANA,Pierde la posesión
+Serbia (95),100320,8720,Serbia,Incorrecta,CQN,Deficiente,ANA,Gol
+Serbia (96),165880,9880,Serbia,Incorrecta,CQN,Deficiente,ANA,Pierde la posesión
+Serbia (97),965880,7360,Serbia,Correcta,CQN,Óptima,ANA,Gol
+Serbia (98),2585000,6760,Serbia,Incorrecta,ANA,Deficiente,CQN,Pierde la posesión
+Serbia (99),472680,8080,Serbia,Incorrecta,LOG,Óptima,ATV,Gol
+Serbia (100),854200,10680,Serbia,Incorrecta,GUA,Óptima,ATV,Pierde la posesión
+Serbia (101),655560,10560,Serbia,Correcta,ALC,Deficiente,ANA,Pierde la posesión
+Serbia (102),686360,7560,Serbia,Incorrecta,ALC,Deficiente,ANA,Pierde la posesión
+Serbia (103),1674200,8120,Serbia,Correcta,ANA,Óptima,ALC,Gol
+Apoyo pivote falso (72),1831720,9680,Apoyo pivote falso,Correcta,ALC,Óptima,ANA,Gol
+Apoyo pivote falso (73),1916000,8760,Apoyo pivote falso,Incorrecta,ALC,Óptima,ANA,Conserva la posesión
+Serbia (104),1552520,8400,Serbia,Incorrecta,ALC,Deficiente,ANA,Conserva la posesión
+Apoyo pivote falso (74),255640,9400,Apoyo pivote falso,Incorrecta,PGE,Óptima,GRA,Gol
+Serbia (105),1489840,45000,Serbia,Correcta,PGE,Óptima,GRA,Gol
+Apoyo pivote falso (75),280600,9920,Apoyo pivote falso,Incorrecta,SIN,Deficiente,BAR,Gol
+Serbia (106),576280,8000,Serbia,Incorrecta,CQN,Óptima,LOG,Conserva la posesión
+Serbia (107),581080,7440,Serbia,Incorrecta,CQN,Óptima,LOG,Conserva la posesión
+Serbia (108),1296440,9160,Serbia,Incorrecta,CQN,Deficiente,LOG,Conserva la posesión
+Serbia (109),1321920,8080,Serbia,Incorrecta,CQN,Deficiente,LOG,Pierde la posesión
+Serbia (110),1582000,9480,Serbia,Incorrecta,LOG,Deficiente,CQN,Gol
+Serbia (111),1765800,8040,Serbia,Correcta,CQN,Óptima,LOG,Pierde la posesión
+Serbia (112),1841080,7000,Serbia,Incorrecta,CQN,Deficiente,LOG,Gol
+Serbia (113),57960,8400,Serbia,Incorrecta,CQN,Deficiente,LOG,Pierde la posesión
+Serbia (114),718280,7840,Serbia,Incorrecta,LOG,Óptima,CQN,Gol
+Serbia (115),931720,5760,Serbia,Correcta,LOG,Óptima,CQN,Gol
+Serbia (116),2481560,8560,Serbia,Incorrecta,LOG,Óptima,CQN,Pierde la posesión
+Serbia (117),1399040,7640,Serbia,Incorrecta,BEN,Deficiente,CGN,Conserva la posesión
+Serbia (118),1411040,7120,Serbia,Correcta,BEN,Óptima,CGN,Gol
+Serbia (119),452960,8600,Serbia,Incorrecta,BEN,Deficiente,CGN,Conserva la posesión
+Apoyo pivote falso (76),1943800,9040,Apoyo pivote falso,Incorrecta,CGN,Deficiente,BEN,Pierde la posesión
+Apoyo pivote falso (77),1867200,7880,Apoyo pivote falso,Correcta,BEN,Deficiente,BAR,Gol
+Serbia (120),693620,6640,Serbia,Correcta,SIN,Óptima,ATV,Conserva la posesión
+Serbia (121),1096900,7580,Serbia,Incorrecta,SIN,Deficiente,ATV,Gol
+Apoyo pivote falso (78),2037640,8640,Apoyo pivote falso,Incorrecta,SIN,Óptima,ATV,Gol
+Serbia (122),1745240,7640,Serbia,Incorrecta,GUA,Óptima,CQN,Gol
+Apoyo pivote falso (79),1251520,12280,Apoyo pivote falso,Incorrecta,TEU,Deficiente,GRA,Gol
+Serbia (123),122480,8840,Serbia,Incorrecta,HCA,Deficiente,ANA,Pierde la posesión
+Apoyo pivote falso (80),202480,8160,Apoyo pivote falso,Incorrecta,HCA,Deficiente,ANA,Gol
+Serbia (124),1763040,8760,Serbia,Incorrecta,HCA,Deficiente,ANA,Conserva la posesión
+Serbia (125),1771000,7840,Serbia,Incorrecta,HCA,Deficiente,ANA,Conserva la posesión
+Serbia (126),1046640,10440,Serbia,Incorrecta,HCA,Óptima,ANA,Conserva la posesión
+Serbia (127),1109080,27120,Serbia,Incorrecta,HCA,Deficiente,ANA,Gol
+Serbia (128),603360,7840,Serbia,Correcta,CGN,Deficiente,BID,Gol
+Serbia (129),680760,7960,Serbia,Correcta,CGN,Deficiente,BID,Gol
+Serbia (130),853980,7320,Serbia,Incorrecta,LOG,Deficiente,ALC,Gol
+Apoyo pivote falso (81),1163520,8720,Apoyo pivote falso,Correcta,CGN,Óptima,BAR,Conserva la posesión
+Serbia (131),1173680,8520,Serbia,Incorrecta,CGN,Óptima,BAR,Pierde la posesión
+Apoyo pivote falso (82),909120,9040,Apoyo pivote falso,Incorrecta,ATV,Óptima,BEN,Conserva la posesión
+Apoyo pivote falso (83),920920,6880,Apoyo pivote falso,Correcta,ATV,Óptima,BEN,Gol
+Apoyo pivote falso (84),1268840,30120,Apoyo pivote falso,Incorrecta,ATV,Deficiente,BEN,Gol
+Serbia (132),419880,10800,Serbia,Incorrecta,SIN,Deficiente,CQN,Conserva la posesión
+Serbia (133),681280,7760,Serbia,Correcta,CQN,Deficiente,SIN,Gol
+Serbia (134),1669920,6440,Serbia,Incorrecta,SIN,Deficiente,CQN,Gol
+Apoyo pivote falso (85),1537640,12320,Apoyo pivote falso,Incorrecta,ATV,Deficiente,BEN,Pierde la posesión
+Serbia (135),1938840,6680,Serbia,Incorrecta,SIN,Deficiente,CQN,Gol
+Serbia (136),2119560,5800,Serbia,Incorrecta,SIN,Deficiente,CQN,Gol
+Serbia (137),1457400,8920,Serbia,Correcta,ALC,Deficiente,GUA,Gol
+Apoyo pivote falso (86),648480,8320,Apoyo pivote falso,Incorrecta,ALC,Deficiente,GUA,Gol
+Apoyo pivote falso (87),837640,9040,Apoyo pivote falso,Correcta,ALC,Deficiente,GUA,Pierde la posesión
+Serbia (138),867320,8600,Serbia,Incorrecta,GUA,Óptima,ALC,Conserva la posesión
+Serbia (139),260600,7880,Serbia,Correcta,BID,Deficiente,GRA,Gol
+Serbia (140),1198320,5640,Serbia,Incorrecta,GRA,Deficiente,BID,Gol
+Serbia (141),1323680,8600,Serbia,Incorrecta,GRA,Deficiente,BID,Gol
+Serbia (142),1015400,9760,Serbia,Correcta,HCA,Deficiente,LOG,Pierde la posesión
+Serbia (143),696640,8120,Serbia,Incorrecta,ANA,Deficiente,PGE,Conserva la posesión
+Serbia (144),842320,7280,Serbia,Incorrecta,ANA,Óptima,PGE,Conserva la posesión
+Apoyo pivote falso (88),228440,9480,Apoyo pivote falso,Incorrecta,PGE,Óptima,ANA,Pierde la posesión
+Serbia (145),314320,9280,Serbia,Correcta,PGE,Deficiente,ANA,Pierde la posesión
+Serbia (146),884360,7880,Serbia,Correcta,PGE,Óptima,ANA,Pierde la posesión
+Serbia (147),1123200,7480,Serbia,Incorrecta,ANA,Deficiente,PGE,Conserva la posesión
+Serbia (148),1136080,5880,Serbia,Incorrecta,ANA,Deficiente,PGE,Gol
+Apoyo pivote falso (89),328440,6240,Apoyo pivote falso,Incorrecta,CQN,Deficiente,BEN,Gol
+Serbia (149),1058840,12880,Serbia,Incorrecta,BEN,Deficiente,CQN,Pierde la posesión
+Apoyo pivote falso (90),641680,9000,Apoyo pivote falso,Incorrecta,CQN,Deficiente,BEN,Pierde la posesión
+Serbia (150),737800,8280,Serbia,Incorrecta,BEN,Deficiente,CQN,Pierde la posesión
+Apoyo pivote falso (91),1364320,8440,Apoyo pivote falso,Correcta,CQN,Deficiente,BEN,Conserva la posesión
+Apoyo pivote falso (92),1372560,8000,Apoyo pivote falso,Incorrecta,CQN,Óptima,BEN,Gol
+Serbia (151),932600,8040,Serbia,Incorrecta,BAR,Óptima,BID,Pierde la posesión
+Serbia (152),981920,7840,Serbia,Correcta,BID,Óptima,BAR,Gol
+Serbia (153),1677400,8360,Serbia,Correcta,PGE,Deficiente,LOG,Gol
+Serbia (154),2246560,8720,Serbia,Correcta,TEU,Óptima,ANA,Gol
+Serbia (155),275360,8560,Serbia,Incorrecta,TEU,Óptima,ANA,Pierde la posesión
+Serbia (156),700400,8880,Serbia,Correcta,TEU,Deficiente,ANA,Gol
+Serbia (157),1808800,9840,Serbia,Incorrecta,TEU,Deficiente,ANA,Conserva la posesión
+Apoyo pivote falso (93),1921880,12440,Apoyo pivote falso,Incorrecta,TEU,Deficiente,ANA,Gol
+Apoyo pivote falso (94),1732080,7720,Apoyo pivote falso,Incorrecta,CGN,Deficiente,ATV,Pierde la posesión
+Serbia (158),1759960,10480,Serbia,Correcta,CGN,Deficiente,ATV,Conserva la posesión
+Apoyo pivote falso (95),1825120,11000,Apoyo pivote falso,Incorrecta,CGN,Óptima,ATV,Pierde la posesión
+Serbia (159),610840,9040,Serbia,Correcta,PGE,Óptima,LOG,Gol
+Serbia (160),818360,8200,Serbia,Incorrecta,PGE,Deficiente,LOG,Gol
+Serbia (161),289000,6880,Serbia,Incorrecta,ADE,Óptima,GRA,Conserva la posesión
+Apoyo pivote falso (96),953800,10920,Apoyo pivote falso,Incorrecta,GRA,Óptima,ADE,Conserva la posesión
+Apoyo pivote falso (97),965600,10800,Apoyo pivote falso,Correcta,GRA,Óptima,ADE,Gol
+Serbia (162),1045440,9200,Serbia,Incorrecta,ADE,Deficiente,GRA,Pierde la posesión
+Serbia (163),77447,9447,Serbia,Incorrecta,GRA,Óptima,ANA,Pierde la posesión
+Serbia (164),143095,6875,Serbia,Incorrecta,GRA,Deficiente,ANA,Conserva la posesión
+Apoyo pivote falso (98),1590451,11853,Apoyo pivote falso,Incorrecta,ANA,Deficiente,GRA,Conserva la posesión
+Serbia (165),2107849,8512,Serbia,Incorrecta,GRA,Deficiente,ANA,Conserva la posesión
+Serbia (166),2117637,7744,Serbia,Incorrecta,GRA,Deficiente,ANA,Pierde la posesión
+Apoyo pivote falso (99),795360,10320,Apoyo pivote falso,Incorrecta,BAR,Óptima,ATV,Conserva la posesión
+Serbia (167),917200,9360,Serbia,Correcta,BAR,Deficiente,ATV,Pierde la posesión
+Serbia (168),1491000,8480,Serbia,Correcta,BAR,Óptima,ATV,Pierde la posesión
+Serbia (169),1596760,5880,Serbia,Incorrecta,ATV,Deficiente,BAR,Gol
+Apoyo pivote falso (100),1657520,9640,Apoyo pivote falso,Correcta,ATV,Deficiente,BAR,Gol
+Apoyo pivote falso (101),1905720,13120,Apoyo pivote falso,Correcta,BAR,Deficiente,ATV,Conserva la posesión
+Serbia (170),293120,6600,Serbia,Incorrecta,CGN,Deficiente,CQN,Pierde la posesión
+Serbia (171),2056800,7920,Serbia,Correcta,GRA,Deficiente,ANA,Gol
+Apoyo pivote falso (102),425840,10600,Apoyo pivote falso,Incorrecta,ALC,Deficiente,BEN,Gol
+Apoyo pivote falso (103),1487200,11600,Apoyo pivote falso,Incorrecta,ALC,Deficiente,BEN,Gol
+Serbia (172),3102320,7920,Serbia,Correcta,BEN,Óptima,ALC,Pierde la posesión
+Serbia (173),2102440,8480,Serbia,Incorrecta,ADE,Deficiente,BID,Gol
+Serbia (174),896280,7520,Serbia,Incorrecta,LOG,Deficiente,TEU,Pierde la posesión
+Serbia (175),2202120,7320,Serbia,Correcta,LOG,Deficiente,TEU,Pierde la posesión
+Serbia (176),2267520,9400,Serbia,Incorrecta,LOG,Óptima,TEU,Conserva la posesión
+Serbia (177),383520,7160,Serbia,Incorrecta,GUA,Deficiente,PGE,Pierde la posesión
+Serbia (178),473200,8480,Serbia,Incorrecta,GUA,Deficiente,PGE,Pierde la posesión
+Serbia (179),1876840,11240,Serbia,Incorrecta,GUA,Óptima,PGE,Pierde la posesión
+Serbia (180),1972920,8440,Serbia,Incorrecta,BAR,Óptima,CQN,Conserva la posesión
+Apoyo pivote falso (104),278920,8560,Apoyo pivote falso,Incorrecta,CQN,Óptima,BAR,Gol
+Serbia (181),411360,5880,Serbia,Correcta,CQN,Deficiente,BAR,Pierde la posesión
+Apoyo pivote falso (105),700440,12760,Apoyo pivote falso,Incorrecta,CQN,Óptima,BAR,Conserva la posesión
+Serbia (182),715880,7920,Serbia,Correcta,CQN,Deficiente,BAR,Gol
+Serbia (183),1715880,12440,Serbia,Correcta,BAR,Óptima,CQN,Pierde la posesión
+Apoyo pivote falso (106),1171400,9440,Apoyo pivote falso,Incorrecta,BID,Óptima,ATV,Pierde la posesión
+Apoyo pivote falso (107),1834760,9160,Apoyo pivote falso,Incorrecta,BID,Óptima,ATV,Pierde la posesión
+Serbia (184),1164680,8920,Serbia,Correcta,HCA,Deficiente,BEN,Gol
+Serbia (185),1250560,10880,Serbia,Correcta,HCA,Deficiente,BEN,Conserva la posesión
+Apoyo pivote falso (108),2242772,9177,Apoyo pivote falso,Correcta,GRA,Deficiente,GUA,Gol
+Serbia (186),2473073,7604,Serbia,Correcta,GUA,Deficiente,GRA,Conserva la posesión
+Apoyo pivote falso (109),1731440,8860,Apoyo pivote falso,Incorrecta,PGE,Deficiente,SIN,Pierde la posesión
+Serbia (187),1815683,12376,Serbia,Correcta,GRA,Óptima,GUA,Conserva la posesión
+Serbia (188),2212313,7471,Serbia,Incorrecta,GUA,Óptima,GRA,Pierde la posesión
+Apoyo pivote falso (110),1123400,10520,Apoyo pivote falso,Correcta,PGE,Deficiente,SIN,Gol
+Serbia (189),1478400,12880,Serbia,Incorrecta,SIN,Deficiente,PGE,Conserva la posesión
+Serbia (190),1398585,10766,Serbia,Incorrecta,ALC,Óptima,BAR,Conserva la posesión
+Apoyo pivote falso (111),2033930,7499,Apoyo pivote falso,Incorrecta,ALC,Óptima,BAR,Gol
+Apoyo pivote falso (112),794520,7240,Apoyo pivote falso,Incorrecta,PGE,Óptima,BEN,Conserva la posesión
+Apoyo pivote falso (113),799320,7000,Apoyo pivote falso,Correcta,PGE,Óptima,BEN,Gol
+Serbia (191),1624360,6760,Serbia,Correcta,BEN,Óptima,PGE,Pierde la posesión
+Apoyo pivote falso (114),1129480,9360,Apoyo pivote falso,Correcta,PGE,Óptima,BEN,Pierde la posesión
+Apoyo pivote falso (115),1199240,9360,Apoyo pivote falso,Correcta,PGE,Óptima,BEN,Gol
+Apoyo pivote falso (116),1952640,7680,Apoyo pivote falso,Incorrecta,BID,Deficiente,ANA,Pierde la posesión
+Serbia (192),1215040,6000,Serbia,Incorrecta,ATV,Deficiente,CQN,Gol
+Serbia (193),1312280,8920,Serbia,Incorrecta,ATV,Deficiente,CQN,Pierde la posesión
+Serbia (194),1729480,9440,Serbia,Incorrecta,ATV,Deficiente,CQN,Conserva la posesión
+Serbia (195),1792080,9320,Serbia,Correcta,ATV,Deficiente,CQN,Gol
+Serbia (196),4456840,6480,Serbia,Incorrecta,CQN,Deficiente,ATV,Pierde la posesión
+Apoyo pivote falso (117),4480320,8160,Apoyo pivote falso,Incorrecta,CQN,Deficiente,ATV,Pierde la posesión
+Serbia (197),454800,7680,Serbia,Correcta,TEU,Deficiente,GUA,Conserva la posesión
+Apoyo pivote falso (118),932560,37160,Apoyo pivote falso,Incorrecta,ANA,Deficiente,ADE,Gol
+Apoyo pivote falso (119),1033640,7920,Apoyo pivote falso,Incorrecta,ANA,Deficiente,ADE,Pierde la posesión
+Apoyo pivote falso (120),2244200,9840,Apoyo pivote falso,Correcta,ANA,Deficiente,ADE,Pierde la posesión
+Apoyo pivote falso (121),531840,11600,Apoyo pivote falso,Correcta,LOG,Óptima,ADE,Pierde la posesión
+Apoyo pivote falso (122),1037600,10400,Apoyo pivote falso,Incorrecta,LOG,Óptima,ADE,Gol
+Serbia (198),1134480,35760,Serbia,Correcta,ADE,Deficiente,ANA,Gol
+Serbia (199),1244520,7480,Serbia,Incorrecta,ADE,Deficiente,ANA,Pierde la posesión
+Apoyo pivote falso (123),2390360,10880,Apoyo pivote falso,Correcta,ADE,Deficiente,ANA,Pierde la posesión
+Apoyo pivote falso (124),505880,10640,Apoyo pivote falso,Incorrecta,ADE,Deficiente,LOG,Pierde la posesión
+Serbia (200),944600,47720,Serbia,Incorrecta,ADE,Deficiente,LOG,Pierde la posesión
